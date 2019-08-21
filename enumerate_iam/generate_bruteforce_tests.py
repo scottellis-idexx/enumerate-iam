@@ -37,6 +37,9 @@ BLACKLIST_OPERATIONS = {
     'describe_events',
     'list_available_solution_stacks',
     'list_platform_versions',
+
+    # local
+    'get_dash_streaming_session_url',
 }
 
 
